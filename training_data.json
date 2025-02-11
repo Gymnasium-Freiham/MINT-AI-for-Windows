@@ -1,0 +1,54 @@
+[
+    {
+        "question": "Wie spät ist es?",
+        "answer": "Es ist 16:13 Uhr."
+    },
+    {
+        "question": "Was ist das Repository 'MINT-AI'?",
+        "answer": "https://github.com/AdamBasly/MINT-AI"
+    },
+    {
+        "question": "Was ist das Repository 'octocat/Hello-World'?",
+        "answer": "https://github.com/octocat/Hello-World"
+    },
+    {
+        "question": "Was ist das Repository 'tensorflow/tensorflow'?",
+        "answer": "https://github.com/tensorflow/tensorflow"
+    },
+    {
+        "question": "Was ist das Repository 'microsoft/vscode'?",
+        "answer": "https://github.com/microsoft/vscode"
+    },
+    {
+        "question": "Was ist das Repository 'facebook/react'?",
+        "answer": "https://github.com/facebook/react"
+    },
+    {
+        "question": "Was ist das Repository 'vuejs/vue'?",
+        "answer": "https://github.com/vuejs/vue"
+    },
+    {
+        "question": "Was ist das Repository 'jquery/jquery'?",
+        "answer": "https://github.com/jquery/jquery"
+    },
+    {
+        "question": "Was ist das Repository 'angular/angular'?",
+        "answer": "https://github.com/angular/angular"
+    },
+    {
+        "question": "Was ist das Repository 'docker/docker'?",
+        "answer": "https://github.com/docker/docker"
+    },
+    {
+        "question": "Was ist das Repository 'kubernetes/kubernetes'?",
+        "answer": "https://github.com/kubernetes/kubernetes"
+    },
+    {
+        "question": "Was ist das Repository 'rails/rails'?",
+        "answer": "https://github.com/rails/rails"
+    },
+    {
+        "question": "Guten Tag",
+        "answer": "Ihnen ebenfals!"
+    }
+]
