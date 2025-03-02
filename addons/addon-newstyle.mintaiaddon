@@ -1,0 +1,25 @@
+# addon-newstyle.mintaiaddon
+
+from PyQt5.QtGui import QPalette, QColor, QFont
+from PyQt5.QtWidgets import QApplication
+
+def apply_new_style(app):
+    # Hintergrundfarbe ändern
+    palette = app.palette()
+    palette.setColor(QPalette.Window, QColor(30, 30, 30))  # Dunklerer Hintergrund
+    palette.setColor(QPalette.WindowText, QColor(255, 255, 255))  # Weiße Schrift
+    app.setPalette(palette)
+
+    # Schriftart und -größe ändern
+    font = QFont('Helvetica', 12)
+    app.setFont(font)
+
+def main():
+    app = QApplication.instance()
+    if app is not None:
+        apply_new_style(app)
+    else:
+        print("QApplication instance not found")
+
+if __name__ == "__main__":
+    main()
